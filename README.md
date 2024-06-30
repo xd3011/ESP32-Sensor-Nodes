@@ -12,6 +12,6 @@
 ### How to use:
 
 1. Install IDE and ESP-IDF SDK
-2. Git clone https://github.com/xd3011/ESP32-OnOff-Nodes
+2. Git clone https://github.com/xd3011/ESP32-Sensor-Nodes
 3. Build and flash to board
 4. Done
